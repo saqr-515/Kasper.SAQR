@@ -807,7 +807,7 @@ header nav .form i {
   border: 1px solid var(--main-color);
   width: fit-content;
   margin: 30px auto;
-  color: var(--background-default);
+  color: #1f2021;
 }
 .pricing .contact-text {
   text-align: center;
